@@ -173,6 +173,11 @@ Transformerベースのモデル（RNNもCNNも使わずに Attentionのみを�
 - スクレイピング
 
 ---
+
+## AIの活用 <hr>
+
+---
+
 ## AIの共働きスタイル <hr>
 
 - AIがする仕事
@@ -182,22 +187,17 @@ Transformerベースのモデル（RNNもCNNも使わずに Attentionのみを�
 - 人がする仕事
 
 ---
+
 ## AIの共働きスタイル <hr>
 
-- AIがする仕事
- - 監視業務 識別系AI
-- AIがする仕事を人が補助
- - 運転業務 制御系AI
-- 人がする仕事をAIが拡張
- - 医療業務 識別系AI
-- 人がする仕事をAIが補助
- - 営業業務 会話系AI
- - 教育業務 予測系AI
-- 人がする仕事
- - クリエイティブ
- - 管理
+- AIがする仕事・・・監視業務 識別系AI
+- AIがする仕事を人が補助・・・運転業務 制御系AI
+- 人がする仕事をAIが拡張・・・医療業務 識別系AI
+- 人がする仕事をAIが補助・・・営業業務 会話系AI
+- 人がする仕事・・・クリエイティブ
 
 ---
+
 ## AI活用分類 4 ✕ 2 = 8分類 <hr>
 
 ### 機能
@@ -207,6 +207,7 @@ Transformerベースのモデル（RNNもCNNも使わずに Attentionのみを�
 - 実行系・・・ドローン、制御系
 
 ---
+
 ## AI活用分類 4 ✕ 2 = 8分類 <hr>
 
 ### 役割
@@ -216,6 +217,7 @@ Transformerベースのモデル（RNNもCNNも使わずに Attentionのみを�
 - 識別・代行・・・大量画像の判定
 - 識別・拡張・・・医療画像（レントゲン）から癌発見
 
+---
 
 ## 参考情報
 
@@ -224,3 +226,4 @@ Transformerベースのモデル（RNNもCNNも使わずに Attentionのみを�
 - 人工知能学会 What's AI : [http://www.ai-gakkai.or.jp/whatsai/AIresearch.html](http://www.ai-gakkai.or.jp/whatsai/AIresearch.html)
 - [kaggle](https://www.codexa.net/what-is-kaggle/)
 - [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
+- [文系ＡＩ人材になる―統計・プログラム知識は不要](https://www.amazon.co.jp/dp/B0828D1TYR/)
