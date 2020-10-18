@@ -1,4 +1,4 @@
-# Wacker#29
+# Wacker#54
 
 ---
 
@@ -12,9 +12,6 @@
 
 ### 機械学習（Deep Learning）についてしらべてみた
 
-<div>
-  ![画像](./img/top.jpg)
-</div>
 
 <br>
 
@@ -175,9 +172,6 @@ Transformerベースのモデル（RNNもCNNも使わずに Attentionのみを�
 ---
 
 ## 参考情報
-
-- [Google Colaboratory](https://colab.research.google.com/)
-- [Google Colaboratory Github](https://github.com/googlecolab)
 
 - [いちばんやさしいディープラーニング入門](https://www.amazon.co.jp/%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84-%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E5%85%A5%E9%96%80%E6%95%99%E5%AE%A4-%E8%B0%B7%E5%B2%A1-%E5%BA%83%E6%A8%B9/dp/4800711878)
 
